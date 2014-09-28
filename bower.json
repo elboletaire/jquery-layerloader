@@ -1,0 +1,22 @@
+{
+  "name": "jquery-layerloader",
+  "version": "0.0.1",
+  "homepage": "https://github.com/elboletaire/jquery-layerloader",
+  "authors": [
+    "Òscar Casajuana <elboletaire@underave.net>"
+  ],
+  "description": "A simple jquery plugin for dealing with preloaders inside layers",
+  "main": "layerloader.js",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "preloader"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6.1"
+  }
+}
